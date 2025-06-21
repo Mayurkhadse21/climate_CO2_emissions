@@ -37,12 +37,6 @@ This project analyzes global CO₂ emissions, population growth, and per capita 
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of your dashboard here (save them in the `/assets` folder)_
-
----
-
 ## 🤝 Author
 
 **Your Name**  
