@@ -34,7 +34,7 @@ This project analyzes global CO₂ emissions, population growth, and per capita 
 - Files:
   - 'full_climate_co2_emissions_data'
   - 'global_trend_summary`
-  - 'countrywise_emissions_latest_year
+  - 'countrywise_emissions_latest_year'
 
 ---
 
