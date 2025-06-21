@@ -32,8 +32,9 @@ This project analyzes global CO₂ emissions, population growth, and per capita 
 
 - Source: Synthesized data from public climate datasets (Our World in Data, World Bank-style format)
 - Files:
-  - `global_trend_summary.csv`
-  - `countrywise_emissions_latest_year.csv`
+  - 'full_climate_co2_emissions_data'
+  - 'global_trend_summary`
+  - 'countrywise_emissions_latest_year
 
 ---
 
