@@ -1,5 +1,5 @@
 # 🌍 Climate CO₂ Emissions Dashboard (Power BI + Python) 
-This project analyzes global CO₂ emissions, population growth, and per capita emissions using publicly available data. Built using Python for preprocessing and Power BI for interactive dashboards.
+    This project analyzes global CO₂ emissions, population growth, and per capita emissions using publicly available data. Built using Python for preprocessing and Power BI for interactive dashboards.
 
 
 ## 📊 Dashboard Features
